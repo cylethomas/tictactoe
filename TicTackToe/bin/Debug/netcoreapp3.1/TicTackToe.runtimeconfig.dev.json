@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cylet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cylet\\.nuget\\packages"
+    ]
+  }
+}
